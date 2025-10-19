@@ -165,8 +165,6 @@ curl -X POST http://localhost:8080/ask      -H "Content-Type: application/json" 
 ---
 
 
----
-
 ## 💡 Références
 - 🔗 [Spring AI Documentation](https://docs.spring.io/spring-ai/reference/)
 - 🔗 [Google AI Studio API](https://aistudio.google.com/)
